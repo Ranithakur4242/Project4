@@ -1,0 +1,40 @@
+/*navigation*/
+#navbar{
+    flex-direction: column;
+
+
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 7px;
+    padding-bottom: 8px;
+}
+/*home*/
+#home{
+
+height: 370px;
+flex-direction: column;
+}
+#home::before{
+    height: 480px;
+}
+/*Services*/
+#services{
+flex-direction: column;
+
+}
+#sevices .box{
+    flex-direction: column;
+}
+.h-primary{
+    font-size: 26px;
+
+}
+.btn{
+    font-size: 13px;
+    padding: 4px 8px;
+}
+#btn{
+    font-size: 13px;
+    padding: 4px 8px;
+}
